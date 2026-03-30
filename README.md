@@ -7,5 +7,5 @@ Steps are as follows:
     Filter Call Sign at Scene Time between 2023 Jan 01 10:07:15 PM AND 2025 Dec 31 10:07:15 PM
 2. Refer to topojson precinct/beat maps in the data folder
 3. Run the python script to transform the data needed for PBI
-4. Create the PBI dashboard
+4. Create the PBI dashboard using the template file
 5. Publish and embed in website
